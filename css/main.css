@@ -93,7 +93,7 @@ align-items: center;
 
 .sizefull{
 	width:100%;
-	height:200px;
+	height:500px;
 	
 }
 
@@ -250,6 +250,10 @@ align-items: center;
   .ban-1{
   	top:18% !important;
   	left:20% !important;
+  }
+
+  .sizefull{
+  	height: 200px;
   }
 }
 
